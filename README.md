@@ -11,4 +11,4 @@ A program for display total internet used at **today** in linux system tray
 1. Clone repository `git clone https://github.com/omidmousavi/internet-used-tray`
 2. Run `python3 ./internet_used_tray.py`
 
-Also you can create a .desktop icon for run program with icon
+Also you can create a .desktop file for run program with icon
